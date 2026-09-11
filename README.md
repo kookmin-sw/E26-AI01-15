@@ -2,14 +2,11 @@
 
 ## 🎯 팀 슬로건
 
-> 목표는 천하무적
+> 트렌드 세터
 
 ## 🖼️ 팀 포스터
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
-
-<p align="center" class="poster-caption"><sub>우치다 다쓰루, 「목표는 천하무적」(2025). 출처: <a href="https://product.kyobobook.co.kr/detail/S000216648068">교보문고 목표는 천하무적</a></sub></p>
-
 
 ***
 
